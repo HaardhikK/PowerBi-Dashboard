@@ -1,6 +1,6 @@
 # Kunder Ecommerce Sales Dashboard
 
-![Kunder Ecommerce Sales Dashboard](./dashboard.png)
+![Kunder Ecommerce Sales Dashboard](./image.png)
 
 ## Overview
 
